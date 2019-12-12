@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabe/Documents/ECE650/Assignments/uw-ece650-f19-a2-gaberch/ece650-a2.cpp
+iostream
+-
+list
+-
+sstream
+-
+string
+-
+vector
+-
+
