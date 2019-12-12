@@ -21,6 +21,8 @@ The algorithm used to calculate the shortest path is based on the Breadth-First 
 
 ## Sample Run
 
+To run the program, go to that `build` folder and run in command prompt the command `./ece650-a2`. 
+
 Assume that the executable is called `a2-ece650`. In the following, `$` is the command-prompt.
 
 ```
