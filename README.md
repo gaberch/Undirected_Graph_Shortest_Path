@@ -9,8 +9,8 @@ Simple program built in C++ that does the following:
 
 This program us compiled using CMake. The CMake instructions are contained in `CMakeLists.txt`. To compile the program, do the following, starting in the main repo:
 ``` 
-mkdir <directory name>
-cd <directory name>
+mkdir build
+cd build
 cmake ../
 make
 ```
