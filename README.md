@@ -9,8 +9,8 @@ Simple program built in C++ that does the following:
 
 This program us compiled using CMake. The CMake instructions are contained in `CMakeLists.txt`. To compile the program, do the following, starting in the main repo:
 ``` 
-mkdir <directory name>
-cd <directory name>
+mkdir build
+cd build
 cmake ../
 make
 ```
@@ -20,8 +20,6 @@ make
 The algorithm used to calculate the shortest path is based on the Breadth-First Search method as described in section 22.2 of the book "Introduction to Algorithms", by Cormen, Leiserson, Rivest & Stein, 2nd ed.
 
 ## Sample Run
-
-To run the program, go to that `build` folder and run in command prompt the command `./ece650-a2`. 
 
 Assume that the executable is called `a2-ece650`. In the following, `$` is the command-prompt.
 
